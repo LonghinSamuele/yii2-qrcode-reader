@@ -1,25 +1,32 @@
 {
-    "name": "longhinsamuele/yii2-qrcode-reader",
-    "description": "Yii2 widget for reading qr code using laptop or phone camera",
-    "type": "yii2-extension",
-    "keywords": ["yii2","extension","javascript","qrcode","reader"],
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "Odai Alali",
-            "email": "odai.alali@gmail.com"
-        },{
-            "name": "Samuele Longhin",
-            "email": "longhin.samuele@outlook.com"
-        }
-    ],
-    "require": {
-        "yiisoft/yii2": "*"
+  "name": "longhinsamuele/yii2-qrcode-reader",
+  "description": "Yii2 widget for reading qr code using laptop or phone camera",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "javascript",
+    "qrcode",
+    "reader"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Odai Alali",
+      "email": "odai.alali@gmail.com"
     },
-    "autoload": {
-        "psr-4": {
-            "odaialali\\qrcodereader\\": ""
-        }
+    {
+      "name": "Samuele Longhin",
+      "email": "longhin.samuele@outlook.com"
     }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "samuelelonghin\\qrcodereader\\": ""
+    }
+  }
 }

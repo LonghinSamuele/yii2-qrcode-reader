@@ -1,6 +1,6 @@
 <?php
 
-namespace longhinsamuele\qrcodereader;
+namespace samuelelonghin\qrcodereader;
 
 use yii\helpers\Html;
 
