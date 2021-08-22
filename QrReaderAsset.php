@@ -4,7 +4,7 @@
  * License for Tournamo.
  */
 
-namespace odaialali\qrcodereader;
+namespace longhinsamuele\qrcodereader;
 
 use yii\web\AssetBundle;
 /**

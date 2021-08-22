@@ -1,6 +1,6 @@
 <?php
 
-namespace odaialali\qrcodereader;
+namespace longhinsamuele\qrcodereader;
 
 use yii\helpers\Html;
 
